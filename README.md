@@ -62,7 +62,7 @@ Files <img width="955" height="530" alt="Phonepe Puse Overview page" src="https:
 
 View or download the complete Power BI report in PDF format below.
 
-[View Power BI Report (PDF)](PhonePe Pulse Dashboard Project Report By Balogun Abdulateef Ayinla.pdf)
+[PhonePe Pulse Dashboard Project Report By Balogun Abdulateef Ayinla (PDF)](PhonePe Pulse Dashboard Project Report By Balogun Abdulateef Ayinla.pdf)
 
 
 ## Limitations
@@ -73,5 +73,4 @@ View or download the complete Power BI report in PDF format below.
 - The dataset has no app-opens column, so engagement is measured with registered users.
 
 ## Author
-
-By Balogun Abdulateef Ayinla
+Balogun Abdulateef Ayinla
