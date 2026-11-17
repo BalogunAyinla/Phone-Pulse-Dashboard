@@ -1,4 +1,11 @@
 # PhonePe Pulse Data Visualization and Exploration
+
+## Project Presentation Video
+
+Watch my project presentation here:
+
+[Click here to watch the project presentation](https://drive.google.com/file/d/1sinrnYxUO_kSk3U-Sd7x9BRZkIDpX5kF/view?usp=sharing)
+
 PhonePe Pulse Data Visualization and Exploration
 
 An interactive Power BI dashboard that explores PhonePe Pulse payment data across Indian states and districts, from 2018 Q1 to 2022 Q4.
