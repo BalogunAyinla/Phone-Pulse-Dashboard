@@ -70,6 +70,16 @@ View or download my complete project report:
 [📄 View PhonePe Pulse Dashboard Project Report (PDF)](Phone%20Pulse%20Dashboard/PhonePe%20Pulse%20Dashboard%20Project%20Report%20By%20Balogun%20Abdulateef%20Ayinla.pdf)
 
 
+## Power BI Dashboard File (.PBIX)
+
+**Project:** PhonePe Pulse Dashboard
+
+**Author:** Balogun Abdulateef Ayinla
+
+Download the Power BI Desktop file to explore the interactive dashboard.
+
+[📊 Download PhonePe Pulse Dashboard (.PBIX)](Phone%20Pulse%20Dashboard/phonePe_Pulse_Dashboard.pbix)
+
 
 ## Limitations
  Limitations
