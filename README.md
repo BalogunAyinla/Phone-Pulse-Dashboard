@@ -57,11 +57,12 @@ Files <img width="955" height="530" alt="Phonepe Puse Overview page" src="https:
 
 ## Files
 
+
 ## Power BI Project Report
 
 View or download the complete Power BI report in PDF format below.
 
-[PhonePe Pulse Dashboard Project Report By Balogun Abdulateef Ayinla (PDF)]
+[View Power BI Report (PDF)](PhonePe Pulse Dashboard Project Report By Balogun Abdulateef Ayinla.pdf)
 
 
 ## Limitations
