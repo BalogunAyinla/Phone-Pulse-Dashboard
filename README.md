@@ -57,10 +57,11 @@ Files <img width="955" height="530" alt="Phonepe Puse Overview page" src="https:
 
 ## Files
 
-- `phonePe_Pulse_Dashboard.pbix`: the Power BI dashboard (open with Power BI Desktop, which is free)
-- `PhonePe_Pulse_Report.pdf`: the full project report
-- `screenshots/`: images of each dashboard page
-- 
+## Power BI Project Report
+
+View or download the complete Power BI report in PDF format below.
+
+[PhonePe Pulse Dashboard Project Report By Balogun Abdulateef Ayinla (PDF)](phonePe_Pulse_Dashboard.pbix)
 
 
 ## Limitations
